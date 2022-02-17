@@ -1,0 +1,128 @@
+Big Project QA 11
+Exploratory
+- Feature Board
+Skenario
+ - Function Menu Board
+  - Menu Board Positif Auto
+  - Menu Board No internet Negative Manual
+
+ - Function Menu Home
+  - Menu Home positif Auto
+  - Menu Home No internet Negative Manual
+
+ - Function Menu HQ (Paket soal C)
+  - Menu Paket soal C Positif Auto
+  - Menu Paket soal C No Internet Negative Manual
+
+ - Function Add list
+  - Create list without data Negative Auto
+  - Create list success Positif Auto
+  - Close Create list Negative Auto
+ 
+ - Move List Menu
+  - Move List Feature 1 to Feature 2 Manual
+  - Move Back List Feature 1 to Feature 2 Manual
+ 
+ - Add Card List
+   - Add Card Success Posotif Auto
+   - Add Card Success with private Positif manual
+   - Add Card Without data Negative Auto
+   - Close Add Card Negative Auto
+
+  - Action List Menu
+   - Func Button Action List Menu
+   - Func Action List "Archive All Cards in This List"
+   - Func Action List "Archive This List"
+   - Func Action List "Set a Complete List"
+   - Func Action List "Sort This List from A to Z"
+   - Func Action List "Sort This List From Z to A"
+   - Func Action List "Sort This List by Nearest Due Date"
+   - Func Action List "Sort This List by Furthest Due Date"
+   - Func Action List "Sort This List by Nearest Created Date"
+   - Func Action List "Sort This List by Furthest Created Date"
+
+  - Move Card drag n drop 
+   - Move Card in List 1 to List 2
+   - Move Back Card in List 1 to List 1
+
+  - Func Card Menu
+   - Func Button Card Menu
+
+  - Action Menu Card
+    - Func Button Move Card
+    - Func Button Quick Comment
+    - Func Button Change Members
+    - Func Button Edit Lables
+    - Func Button Edit Due Date
+    - Func Button Edit Notes
+    - Func Button Change Name
+    - Func Button Attach Files
+    - Func Button Private Card
+    - Func Button Archive
+
+ - Function Search
+ - Function Archived Items
+
+- Feature Group Chat
+ - Function Menu Group Chat
+  - Menu Group Chat Positif Auto
+  - Menu Group Chat No internet Negative Manual
+
+ - Function Menu Home
+  - Menu Home positif Auto
+  - Menu Home No internet Negative Manual
+
+ - Function Menu HQ (Paket soal C)
+  - Menu Paket soal C Positif Auto
+  - Menu Paket soal C No Internet Negative Manual
+
+ - send message
+SendTextMessageSucces positif Auto
+ - delete message
+TC01_DeleteTextMessageSucces positif auto
+ - click profile
+TC01_ButtonProfile positif auto
+TC02_ButtonBackProfile negative auto
+TC03_EditProfile positif auto
+TC04_CancelEditProfile negative auto
+
+- Feature Check-Ins
+   Skenario
+ - Function Menu Check-Ins
+  - Menu Check-Ins Positif Auto
+  - Menu Check-Ins No internet Negative Manual
+
+ - Function Menu Home
+  - Menu Home positif Auto
+  - Menu Home No internet Negative Manual
+
+ - Function Menu HQ (Paket soal C)
+  - Menu Paket soal C Positif Auto
+  - Menu Paket soal C No Internet Negative Manual
+
+  - Button Create CheckIn
+   - Functional Button Create CheckIn Positif
+   - Functional Back Menu CheckIn Negative
+   - Cancel Create CheckIn Negative
+   - Success Create CheckIn Monday
+   - Success Create CheckIn Tuesday
+   - Success Create CheckIn Wednesday
+   - Success Create CheckIn Thursday
+   - Success Create CheckIn Friday
+   - Success Create CheckIn Saturday
+   - Success Create CheckIn Sunday
+
+  - Question
+   - Func Question
+   - Edit Question
+   - Archive This Question
+
+   Comment Question
+   - Add Comment Question
+   - Close Add Comment Question
+   - Replay This Comment
+   - Edit Comment Question
+   - Close Delete Comment Question    
+   - Delete Comment Question
+
+notifications according to comments
